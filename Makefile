@@ -7,8 +7,8 @@ HDRFILES = $(wildcard *.h)
 
 OBJ = $(CFILES:.c=.o)
 
-DLISTC = $(wildcard /home/clement/my_repo/my_tools/dlist_string/*.c)
-DLISTH = $(wildcard /home/clement/my_repo/my_tools/dlist_string/*.h)
+DLISTC = $(wildcard /home/clement/my_repo/my_language/my_tools/dlist_string/*.c)
+DLISTH = $(wildcard /home/clement/my_repo/my_language/my_tools/dlist_string/*.h)
 
 TARGET = a.out
 
