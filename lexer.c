@@ -17,6 +17,8 @@ struct sdlist *lexer(char *file, int file_size)
     return token_list;
 }
 */
+
+
 int main(int argc, char **argv)
 {
     int fd = open(*(argv + 1), O_RDWR);
