@@ -1,5 +1,5 @@
-#ifndef DLIST_H
-#define DLIST_H
+#ifndef DLIST_INT_H
+#define DLIST_INT_H
 
 #include <stddef.h>
 

@@ -4,8 +4,6 @@
 #include <unistd.h>
 
 #include "/home/clement/my_repo/my_language/my_tools/dlist_string/dlist_string.h"
-
-
 /*
 struct sdlist *lexer(char *file, int file_size)
 {
@@ -17,8 +15,6 @@ struct sdlist *lexer(char *file, int file_size)
     return token_list;
 }
 */
-
-
 int main(int argc, char **argv)
 {
     int fd = open(*(argv + 1), O_RDWR);
